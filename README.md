@@ -8,7 +8,7 @@ Se compara un baseline rápido (**DistilRoBERTa**) frente a un modelo **multilin
 ---
 
 ### [Notebook](./Notebook.ipynb)
-### [Aplicación (Hugging Face Space)](https://huggingface.co/spaces/<<TU-SPACE>>) <!-- Reemplázala -->
+### [Aplicación](https://huggingface.co/spaces/Ricardouchub/sentiment-es-en)
 ### [Modelo en el Hub](https://huggingface.co/Ricardouchub/xlmr-sentiment-es-en)
 
 ## Dataset
@@ -16,8 +16,6 @@ Se compara un baseline rápido (**DistilRoBERTa**) frente a un modelo **multilin
 Se utiliza el dataset de **críticas de Rotten Tomatoes** (reseñas de críticos profesionales), con más de **1 millón** de reseñas.
 
 - **Fuente:** [Kaggle – Rotten Tomatoes Movies and Critic Reviews](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)
-- **Etiquetas:** `Fresh` / `Rotten` → se normaliza a **{1, 0}**
-- **Preprocesamiento mínimo:** limpieza de HTML, espacios y contracciones (e.g., `don’t → do not`)
 
 ---
 
