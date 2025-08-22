@@ -10,7 +10,10 @@ Este es el segundo repositorio de un proyecto de NLP en dos partes, enfocado en 
 
 ---
 
-# Parte 2: Analizador de Sentimiento Bilingüe (EN/ES) con XLM-RoBERTa + Hugging Face Spaces
+<p align="center">
+  <img width="560" height="187" alt="image" src="https://github.com/user-attachments/assets/b017bc97-3ee9-4f29-9559-a5a0f23c1bdd" />
+</p>
+
 
 Este proyecto implementa un analizador de sentimiento para *reseñas de películas* en *inglés y español* usando **Transformers**.  
 Se compara un baseline rápido `DistilRoBERTa` frente a un modelo **multilingüe** `XLM-RoBERTa`base y se despliega una **app web** en *Hugging Face Spaces*.
