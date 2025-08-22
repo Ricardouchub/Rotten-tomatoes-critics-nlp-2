@@ -1,4 +1,4 @@
-# (2da parte del proyecto)
+## Parte 1 (NPL) |  Parte 2 (NPL)
 
 # Analizador de Sentimiento Bilingüe (EN/ES) con XLM-RoBERTa + Hugging Face Spaces
 
