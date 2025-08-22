@@ -70,7 +70,7 @@ Se utiliza el dataset de **críticas de Rotten Tomatoes** (reseñas de críticos
 
 ---
 
-## Resultados (100k train / 10k test)
+## Resultados
 
 | Modelo               | Accuracy | F1     | Precision | Recall | AUC   | Umbral |
 |----------------------|:-------:|:------:|:---------:|:------:|:-----:|:------:|
