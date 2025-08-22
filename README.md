@@ -1,4 +1,6 @@
-## Parte 1 (NPL) |  Parte 2 (NPL)
+## [Proyecto NLP - Parte 1](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | [Proyecto NLP - Parte 2](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp-2)
+
+---
 
 # Parte 2: Analizador de Sentimiento Bilingüe (EN/ES) con XLM-RoBERTa + Hugging Face Spaces
 
