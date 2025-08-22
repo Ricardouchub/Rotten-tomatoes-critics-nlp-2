@@ -9,7 +9,7 @@ Se compara un baseline rápido `DistilRoBERTa` frente a un modelo **multilingüe
 
 <p align="center">
   <a href="./Notebook.ipynb">Notebook</a> |
-  <a href="https://huggingface.co/spaces/Ricardouchub/sentiment-es-en">Aplicación</a> |
+  <a href="https://huggingface.co/spaces/Ricardouchub/sentiment-es-en">Aplicación Web</a> |
   <a href="https://huggingface.co/Ricardouchub/xlmr-sentiment-es-en">Modelo</a>
 </p>
 
