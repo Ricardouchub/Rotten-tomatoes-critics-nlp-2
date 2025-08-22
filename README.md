@@ -7,9 +7,12 @@ Se compara un baseline rápido `DistilRoBERTa` frente a un modelo **multilingüe
 
 ---
 
-### [Notebook](./Notebook.ipynb)
-### [Aplicación](https://huggingface.co/spaces/Ricardouchub/sentiment-es-en)
-### [Modelo en el Hub](https://huggingface.co/Ricardouchub/xlmr-sentiment-es-en)
+### | [Notebook](./Notebook.ipynb) | [Aplicación](https://huggingface.co/spaces/Ricardouchub/sentiment-es-en) | [Modelo](https://huggingface.co/Ricardouchub/xlmr-sentiment-es-en) |
+
+---
+
+<img width="1503" height="913" alt="image" src="https://github.com/user-attachments/assets/a7fec7f1-dd29-4ec2-bbaf-9cb9d2fb84eb" />
+
 
 ## Dataset
 
