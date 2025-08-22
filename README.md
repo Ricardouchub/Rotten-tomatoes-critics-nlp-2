@@ -3,13 +3,28 @@
 # Analizador de Sentimiento Bilingüe (EN/ES) con XLM-RoBERTa + Hugging Face Spaces
 
 Este proyecto implementa un analizador de sentimiento para **reseñas de películas** en **inglés y español** usando **Transformers**.  
-Se compara un baseline rápido (**DistilRoBERTa**) frente a un modelo **multilingüe** (**XLM-RoBERTa base**) y se despliega una **app web** con **Gradio** en **Hugging Face Spaces** con una salida amigable para usuarios.
+Se compara un baseline rápido `DistilRoBERTa` frente a un modelo **multilingüe** `XLM-RoBERTa`base y se despliega una **app web** en **Hugging Face Spaces**.
 
 ---
 
-### [Notebook](./Notebook.ipynb)
-### [Aplicación](https://huggingface.co/spaces/Ricardouchub/sentiment-es-en)
-### [Modelo en el Hub](https://huggingface.co/Ricardouchub/xlmr-sentiment-es-en)
+<p align="center">
+  <a href="./Notebook.ipynb">Notebook</a> |
+  <a href="https://huggingface.co/spaces/Ricardouchub/sentiment-es-en">Aplicación</a> |
+  <a href="https://huggingface.co/Ricardouchub/xlmr-sentiment-es-en">Modelo</a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/Ricardouchub/sentiment-es-en">
+    <img
+      src="https://github.com/user-attachments/assets/a7fec7f1-dd29-4ec2-bbaf-9cb9d2fb84eb"
+      alt="Demo en Hugging Face Space: Sentiment EN/ES"
+      width="1503"
+      height="913"
+    />
+  </a>
+</p>
 
 ## Dataset
 
@@ -55,7 +70,7 @@ Se utiliza el dataset de **críticas de Rotten Tomatoes** (reseñas de críticos
 
 ---
 
-## Resultados (100k train / 10k test)
+## Resultados
 
 | Modelo               | Accuracy | F1     | Precision | Recall | AUC   | Umbral |
 |----------------------|:-------:|:------:|:---------:|:------:|:-----:|:------:|
