@@ -1,4 +1,12 @@
-## [Proyecto NLP - Parte 1](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | [Proyecto NLP - Parte 2](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp-2)
+Este es el segundo repositorio de un proyecto de NLP en dos partes, enfocado en el despliegue de un modelo bilingüe. Si quieres ver el análisis exploratorio y el modelado inicial que condujo a este proyecto, visita la Parte 1.
+
+| Proyecto NLP | [Parte 1: Análisis Exploratorio y Predictivo](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | [Parte 2: Modelo Robusto Bilingüe y Despliegue](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp-2) |
+| :--- | :--- | :--- |
+| **Objetivo Principal** | Análisis predictivo e investigativo sobre las críticas | **Construir y desplegar una aplicación funcional** |
+| **Idioma** | Inglés | **Bilingüe (EN/ES)** |
+| **Modelo Clave** | Logistic Regression | **XLM-RoBERTa** |
+| **Producto Final** | Análisis y hallazgos en un Notebook | **Aplicación Web Interactiva** |
+| **Enfoque** | Exploración y Modelado | **Producción y Aplicación**  |
 
 ---
 
