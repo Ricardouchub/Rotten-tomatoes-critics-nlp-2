@@ -1,4 +1,4 @@
-Este es el segundo repositorio de un proyecto de NLP en dos partes, enfocado en el despliegue de un modelo bilingüe. Para ver el análisis exploratorio y el modelado inicial que condujo a este proyecto, visita la Parte 1.
+Este es el segundo repositorio de un proyecto de NLP en dos partes, enfocado en el despliegue de un modelo bilingüe. Para ver el análisis exploratorio y el modelado inicial que condujo a este proyecto, visita la Parte 1
 
 | Proyecto NLP | [Parte 1: Análisis Exploratorio y Predictivo](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | [Parte 2: Modelo Robusto Bilingüe y Despliegue](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp-2) |
 | :--- | :--- | :--- |
