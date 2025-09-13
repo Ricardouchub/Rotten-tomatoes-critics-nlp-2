@@ -89,7 +89,7 @@ Se comparó el modelo bilingüe (XLM-R) con el baseline monolingüe (DistilRoBER
 | DistilRoBERTa          | 0.8484   | 0.8882 | 0.8426    | **0.9390** | **0.9282** | 0.6046        |
 | **XLM-RoBERTa (base)** | **0.8519** | 0.8876 | **0.8646** | 0.9119 | 0.9260 | **0.4800** |
 
-> **Conclusión Clave:** XLM-RoBERTa fue seleccionado como el modelo final. Aunque DistilRoBERTa tiene un Recall y AUC marginalmente superiores, **XLM-R ofrece mayor precisión** (menos falsos positivos), un **mejor accuracy general** y, fundamentalmente, la **capacidad de procesar texto en español**, lo que era un requisito clave del proyecto.
+>  XLM-RoBERTa fue seleccionado como el modelo final. Aunque DistilRoBERTa tiene un Recall y AUC marginalmente superiores, **XLM-R ofrece mayor precisión** (menos falsos positivos), un **mejor accuracy general** y, fundamentalmente, la **capacidad de procesar texto en español**, lo que era un requisito clave del proyecto.
 
 ---
 
