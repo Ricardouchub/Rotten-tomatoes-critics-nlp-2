@@ -106,4 +106,4 @@ Se utiliza el dataset de **críticas de Rotten Tomatoes** (reseñas de críticos
 
 **Ricardo Urdaneta** 
 
-**[Linkedin](https://www.linkedin.com/in/ricardourdanetacastro/)**
+**[Linkedin](https://www.linkedin.com/in/ricardourdanetacastro)**
